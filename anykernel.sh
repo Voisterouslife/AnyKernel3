@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=S24-Knox-Disabled-Kernel-Kokuban
+kernel.string=S24/ZFold6/ZFlip6-Knox-Disabled-Kernel-Kokuban
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -13,6 +13,8 @@ do.cleanuponabort=0
 device.name1=e3q
 device.name2=e2q
 device.name3=e1q
+device.name4=q6q
+device.name5=e1q
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
