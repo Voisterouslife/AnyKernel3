@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Z Fold/Flip 4-Knox-Disabled-Kernel-Kokuban
+kernel.string=Z Fold/Flip 4-KernelSU-AnyKernel3-Kokuban-Bronya
 do.devicecheck=1
 do.modules=0
 do.systemless=1
