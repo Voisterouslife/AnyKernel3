@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=S25-Knox-Disabled-Kernel-Kokuban
+kernel.string=S25-Kokuban-Kernel
 do.devicecheck=1
 do.modules=1
 do.systemless=0
