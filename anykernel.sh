@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Z Fold/Flip 4-KernelSU-AnyKernel3-Kokuban-Bronya
+kernel.string=S21-Kokuban-Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=b4q
-device.name2=q4q
-device.name3=
+device.name1=p1q
+device.name2=p2q
+device.name3=p3q
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
