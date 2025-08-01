@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=S25-Kokuban-Kernel
-do.devicecheck=1
-do.modules=1
+kernel.string=S25-Edge-Kokuban-Kernel
+do.devicecheck=0
+do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=pa3q
-device.name2=pa2q
-device.name3=pa1q
+device.name1=
+device.name2=
+device.name3=
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
