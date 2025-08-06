@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=S23-Knox-Disabled-Kernel-Kokuban
-do.devicecheck=1
+kernel.string=Z5-Kokuban-Kernel
+do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=dm3q
-device.name2=dm2q
-device.name3=dm1q
+device.name1=
+device.name2=
+device.name3=
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
