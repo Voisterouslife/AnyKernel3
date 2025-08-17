@@ -5,16 +5,16 @@
 # global properties
 properties() { '
 kernel.string=S24FE-Kokuban-Kernel
-do.devicecheck=0
+do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=e3q
-device.name2=e2q
-device.name3=e1q
-device.name4=q6q
-device.name5=b6q
+device.name1=r12s
+device.name2=
+device.name3=
+device.name4=
+device.name5=
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
