@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=S24/ZFold6/ZFlip6-KernelSU-AnyKernel3-Kokuban-Elysia
+kernel.string=S24-Snapdragon-Kokuban-Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
