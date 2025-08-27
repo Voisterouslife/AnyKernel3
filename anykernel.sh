@@ -4,8 +4,8 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=S24-Exynos-Kokuban-Kernel
-do.devicecheck=1
+kernel.string=TabS10FE-Kokuban-Kernel
+do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
